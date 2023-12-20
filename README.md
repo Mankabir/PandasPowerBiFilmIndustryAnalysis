@@ -24,7 +24,6 @@ The final output is a Power BI dashboard which provides insights into various as
 
 #### Filters:
 - **Film Dropdown:** Filter the dashboard data for a specific film.
-- **Genre Dropdown:** Select a genre to filter the visualizations.
 
 #### Charts:
 1. **Rotten Tomatoes Score by Film Genre:** Bar chart showing average Rotten Tomatoes scores by genre.
